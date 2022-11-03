@@ -1,0 +1,35 @@
+Git :
+
+	1.One of the Tool used for Code Version Control System.
+
+	2.Developers develop their code in their local machines and they push the code
+	to a Central Code Repository
+
+	3.This Code Repository holds 
+
+		1.The code of Developers.
+
+		2.The Version of Code
+
+	There are Two types of Version Control System
+
+	1.Centralized Version Control System : 
+  
+    --> Here, Devs will work with individual files of the repo in their local machines and update changes to Version Control System.
+  
+    --> Other Name is Remote Repository
+    
+    --> They don't have a local Repository hence they need to be connected to internet for updating the changes to VCS
+    
+	
+	2.Decentralized [Distributed] Version Control System
+  
+    -->Here Devs,Pulls a Complete Repo in thier local system and send a updated Repo to Version Control System.
+    
+    -->Here a Local Repository is available hence they need not be connected with Version Control System
+    
+  Note : Git is a  Famous Distributed Version Control System
+  
+          GitHub,GitLab,BitBucked are the Server that are implemented for Git Version Control System
+  
+         SVN,VCS are Famous Centralized Version Control Systems
